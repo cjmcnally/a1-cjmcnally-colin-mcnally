@@ -10,7 +10,7 @@ This page uses D3.js to draw a simple car, a horizontal line, two curved lines, 
 
 ## GitHub Pages
 
-[View the live page]([https://cjmcnally.github.io/a1-cjmcnally-colin-mcnally/])
+[View the live page](https://cjmcnally.github.io/a1-cjmcnally-colin-mcnally/)
 
 ## Technical achievements
 
